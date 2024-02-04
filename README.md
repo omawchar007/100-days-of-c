@@ -34,7 +34,7 @@ We're excited to see your progress and the projects you create with C!
 ## Project Ideas (Sample)
 | Day           | Topic Name                       | Completed                 |
 | ------------- |:-------------------------------------:| -------------------------:|
-| Day #1        | [5 Digit](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/5_digit_sum.c)                   | ✅:      |
-| Day #2        | [Factorial Calculator](link-to-repo)                   | ⬜:      |
+| Day #1        | [5 Digit](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/5_digit_sum.c)                   | ✅      |
+| Day #2        | [Factorial Calculator](link-to-repo)                   | ⬜      |
 
 Feel free to customize the content, project ideas, and resources based on your friend's preferences and goals. Happy coding! 🌐👨‍💻
