@@ -31,7 +31,7 @@ We're excited to see your progress and the projects you create with C!
 - [GeeksforGeeks C Programming](https://www.geeksforgeeks.org/c-programming-language/)
 - [W3r C Programming ](https://www.w3resource.com/c-programming/programming-in-c.php)
 
-## Project Ideas (Sample)
+## Project 
 | Day           | Topic Name                       | Completed                 |
 | ------------- |:-------------------------------------:| -------------------------:|
 | Day #1        | [5 Digit](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/5_digit_sum.c)                   | ✅      |
