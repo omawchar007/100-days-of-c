@@ -5,22 +5,22 @@
 </p>
 
 ## Introduction
-Welcome to the 100 Days of C Programming Challenge! This challenge aims to enhance your C programming skills over the course of 100 days.
+Welcome to the 100 Days of C Programming Challenge! This challenge aims to enhance your C programming skills over 100 days.
 
 Each day, you'll dive into a new C programming concept, solve coding problems, or work on practical projects. Topics include memory management, file handling, data structures, algorithms, networking, and more.
 
-This challenge is suitable for C beginners and intermediate learners who want to strengthen their programming abilities and build real-world applications. It's also an opportunity to connect with fellow learners, share knowledge, and collaborate.
+This challenge suits C beginners and intermediate learners who want to strengthen their programming abilities and build real-world applications. It's also an opportunity to connect with fellow learners, share knowledge, and collaborate.
 
 We're excited to see your progress and the projects you create with C!
 
 ## How to Participate
 1. Fork this repository and create a new branch to track your progress.
-2. Dedicate at least one hour every day to coding and learning C for the next 100 days.
-3. Share your daily progress on twitter  using the hashtag #100DaysOfCChallenge and tag us @omawchar07.
+2. Dedicate at least one hour daily to coding and learning C for the next 100 days.
+3. Share your daily progress on Twitter  using the hashtag #100DaysOfCChallenge and tag us @omawchar07.
 4. Engage in discussions and share your experiences in the Discussions section of this repository.
 
 ## Rules
-- Code for at least one hour every day (including weekends and holidays).
+- Code for at least one hour daily (including weekends and holidays).
 - Focus on areas of C programming you want to learn or improve.
 - Share your daily progress on social media.
 - Avoid copying code from the internet; strive for clean and elegant solutions.
