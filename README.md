@@ -41,5 +41,6 @@ We're excited to see your progress and the projects you create with C!
 | Day #5        | [Smallest Largest Array](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/samllest_largest_array.c)                   | ✅      |
 | Day #6        | [Fibonacci Number](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/fibonacci_number.c)                   | ✅      |
 | Day #7        | [Decimal To Binary](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/decimal_to_%20binary.c)                   | ✅      |
+| Day #8        | [Prime Of Range](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/prime_of_range.c)                   | ✅      |
 
 Feel free to customize the content, project ideas, and resources based on your friend's preferences and goals. Happy coding! 🌐👨‍💻
