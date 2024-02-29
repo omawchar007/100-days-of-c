@@ -44,5 +44,7 @@ We're excited to see your progress and the projects you create with C!
 | Day #9 | [Matrix Multiplication](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/matrix_multiplication.c) | ✅ |
 | Day #10 | [Armstrong](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/armstrong.c) | ✅ |
 | Day #11 | [Highest Value Posittion](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/highest_value_posittion.c) | ✅ |
+| Day #12 | [Simple Interest Calculater](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/simple_interest.c) | ✅ |
+
 
 Feel free to customize the content, project ideas, and resources based on your preferences and goals. Happy coding! 🌐👨‍💻
