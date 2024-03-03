@@ -46,7 +46,7 @@ We're excited to see your progress and the projects you create with C!
 | Day #11 | [Highest Value Posittion](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/highest_value_posittion.c) | ✅ |
 | Day #12 | [Simple Interest Calculater](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/simple_interest.c) | ✅ |
 | Day #13 | [Find Armstrong Numbers](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/armstrong_numbers.c) | ✅ |
-| Day #14 | [Calculate GCD and LCM](link_to_solution) | ⬜ |
+| Day #14 | [Calculate GCD and LCM](https://github.com/omawchar007/100-days-of-c/blob/main/100%20Days%20Of%20Code/calculate_GCD_and_LCM.c) | ✅ |
 | Day #15 | [Implement a Queue](link_to_solution) | ⬜ |
 | Day #16 | [Implement a Stack](link_to_solution) | ⬜ |
 | Day #17 | [Check for Anagrams](link_to_solution) | ⬜ |
